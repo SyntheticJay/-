@@ -1,0 +1,25 @@
+{
+  "authentication": {
+    "email": "noob@john.doe",
+    "password": "passw0rd"
+  },
+  "botserver": {
+    "host": "server",
+    "port": 25565,
+    "version": "1.12.2"
+  },
+  "webserver": {
+    "ws-port": 5050,
+    "socket-port": 7070
+  },
+  "prefix": "<",
+  "insults": [
+    "%p is gay!"
+  ],
+  "joinmessage": "Hello!",
+  "antiafk": {
+    "moveInterval": 2,
+    "maxRandom": 5
+  },
+  "commandRate": 3000
+}
