@@ -1,7 +1,7 @@
-#Chatbot
+# Chatbot
 A Functional NodeJS Chatbot for Minecraft. ✨
 
-##💎 Setup 
+## 💎 Setup 
 In this repo there is a config.json file, this is provided to you have
 a general basis of the bot's configuration, of course you will have to input 
 your own information! Aswell as this, the `server/html` directory is empty. Please supply
